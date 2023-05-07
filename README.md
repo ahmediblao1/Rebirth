@@ -9,7 +9,6 @@
 
   Rebirth is a fully responsive hospital website, <br />Responsive for all devices.
 
-  <!-- <a href="https://codewithsadee.github.io/doclab/"><strong>➥ Live Demo</strong></a> -->
 
 </div>
 
